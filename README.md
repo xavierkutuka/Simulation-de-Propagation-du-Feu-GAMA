@@ -1,5 +1,5 @@
-🌲 1. Simulation de Propagation du Feu
-🎯 Objectif
+1. Simulation de Propagation du Feu
+ Objectif
 La simulation permet de modéliser comment un feu se propage dans une forêt, en fonction de la densité d’arbres, du vent, de la distance de propagation et du comportement interne de chaque arbre.
 
 Chaque arbre suit une machine à états finis :
@@ -27,7 +27,7 @@ nombre d’arbres brûlants
 
 nombre d’arbres détruits
 
-📷 Visualisation
+Visualisation
 Arbres verts = intacts
 
 Arbres rouges = en train de brûler
