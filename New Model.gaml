@@ -1,11 +1,11 @@
 /**
-* Name: Tp1
+* Name: Projet Propagation de feu
 * Based on the internal empty template.
 * Author: Mame_Khalifa
 * Tags:
 */
 
-model Tp1
+model Projet Propagation de feu
 
 /* Insert your model definition here */
 
